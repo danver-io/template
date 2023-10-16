@@ -1258,10 +1258,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.2.0.tgz#2cbcf822bf3764c9658c4d2e568bd0c0cb748016"
   integrity sha512-+OJ9konv95ClSTOJCmMZqpd5+YGsB2S+x6w3E1oaM8UuR5j8nTNHYSz8c9BEPGDOCMQYIEEGlVPj/VY64iTbGw==
 
-"@danver-io/danver-design-system@^1.0.25":
-  version "1.0.25"
-  resolved "https://npm.pkg.github.com/download/@danver-io/danver-design-system/1.0.25/3e5d483ccb9f82e05246247ff821a5476c16cc54#3e5d483ccb9f82e05246247ff821a5476c16cc54"
-  integrity sha512-DBDk4dcPBkcxofFDkojl4ms3Ix1vfi32Nkr/lHm3BLS6mPg7mEMLr4DX84LvsPL/u51F94GYkBaIUrjt60moFA==
+"@danver-io/danver-design-system@^1.0.30":
+  version "1.0.30"
+  resolved "https://npm.pkg.github.com/download/@danver-io/danver-design-system/1.0.30/eff40da68d12f4a7a78f1582b90a0cb650c4a925#eff40da68d12f4a7a78f1582b90a0cb650c4a925"
+  integrity sha512-moDoYhklSwcKqkjn54DaLEbq5YmqZXZPPqJZ/NFU5R/Uo9o+7spout3yw5sDqJEWMzR58FAy5aHQmzAunJJi6Q==
   dependencies:
     react "^18.2.0"
     react-dom "^18.2.0"

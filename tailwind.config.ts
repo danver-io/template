@@ -1,7 +1,7 @@
 import type {Config} from 'tailwindcss'
 
 const config: Config = {
-    presets: [require('@danver-io/danver-design-system/config/preset/tailwind-color-preset.js')],
+    presets: [require('@danver-io/danver-design-system/config/preset/tailwind-preset.js')],
     content: [
         './app/**/*.{js,ts,jsx,tsx,mdx}',
         './components/**/*.{js,ts,jsx,tsx,mdx}',
