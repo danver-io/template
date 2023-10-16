@@ -6530,6 +6530,18 @@ neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
+next-translate-plugin@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/next-translate-plugin/-/next-translate-plugin-2.6.1.tgz#9c2651de01d535478983760306e904bcedb08ef8"
+  integrity sha512-mqGBm+LI7/zqPfMeCjXXcejagSQ8vaMPIAqq3GNlsIgTbO3Z0YlBDai2cM96HM0b6gbTnxcikCIC+wtfJI1/LQ==
+  dependencies:
+    typescript "4.5.2"
+
+next-translate@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/next-translate/-/next-translate-2.6.1.tgz#df3773e698f7209cc32e211b8514ca5421a3847c"
+  integrity sha512-R8BQChc8eW1YiLb++6X7yyBsm65RWQoyw9ZSeKZhm7rOwsd0V1hONz6FnNWy91ybMu1Z2gRNMNWjb/Xg7smdOA==
+
 next@13.5.4:
   version "13.5.4"
   resolved "https://registry.yarnpkg.com/next/-/next-13.5.4.tgz#7e6a93c9c2b9a2c78bf6906a6c5cc73ae02d5b4d"
@@ -9029,6 +9041,11 @@ typedarray-to-buffer@^3.1.5:
   integrity sha512-zdu8XMNEDepKKR+XYOXAVPtWui0ly0NtohUscw+UmaHiAWT8hrV1rr//H6V+0DvJ3OQ19S979M0laLfX8rm82Q==
   dependencies:
     is-typedarray "^1.0.0"
+
+typescript@4.5.2:
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.2.tgz#8ac1fba9f52256fdb06fb89e4122fa6a346c2998"
+  integrity sha512-5BlMof9H1yGt0P8/WF+wPNw6GfctgGjXp5hkblpyT+8rkASSmkUKMXrxR0Xg8ThVCi/JnHQiKXeBaEwCeQwMFw==
 
 typescript@^5:
   version "5.2.2"
