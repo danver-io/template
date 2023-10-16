@@ -3,7 +3,7 @@
   "tabWidth": 4,
   "semi": false,
   "singleQuote": true,
-  "printWidth": 1000,
+  "printWidth": 120,
   "bracketSameLine": true,
   "bracketSpacing": false,
   "arrowParens": "avoid"
