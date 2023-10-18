@@ -1,7 +1,8 @@
 import './globals.css'
-import Image from 'next/image'
 import {IHeadlessNavButton} from '@danver-io/danver-design-system/dist/component/navigation/ResponsiveHeader/HeadlessNavButton'
 import {ResponsiveHeader} from '@danver-io/danver-design-system'
+import React from 'react'
+import Image from 'next/image'
 
 const menus: IHeadlessNavButton[] = [
     {name: 'Menu1', href: '/menu1'},
