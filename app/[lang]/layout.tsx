@@ -5,9 +5,9 @@ import React from 'react'
 import Image from 'next/image'
 
 const menus: IHeadlessNavButton[] = [
-    {name: 'Menu1', href: '/menu1'},
-    {name: 'Menu2', href: '/menu2'},
-    {name: 'Menu3', href: '/menu3'},
+    {id: 'menu1', name: 'Menu1', href: '/menu1'},
+    {id: 'menu2', name: 'Menu2', href: '/menu2'},
+    {id: 'menu3', name: 'Menu3', href: '/menu3'},
 ]
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
