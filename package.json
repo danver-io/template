@@ -9,12 +9,12 @@
     "lang": "yarn babel-node --presets @babel/preset-env ./script/language.js"
   },
   "dependencies": {
-    "@danver-io/danver-design-system": "^1.0.60",
     "accept-language": "^3.0.18",
-    "next": "13.5.4",
-    "next-translate": "^2.6.1",
-    "react": "^18",
-    "react-dom": "^18"
+    "@danver-io/danver-design-system": "^1.0.60",
+    "next": "latest",
+    "next-translate": "2.5.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@babel/node": "^7.19.1",
@@ -22,7 +22,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10",
-    "next-translate-plugin": "^2.6.1",
+    "next-translate-plugin": "2.5.3",
     "postcss": "^8",
     "prettier": "^3.0.3",
     "tailwindcss": "^3",
