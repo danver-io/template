@@ -54,7 +54,7 @@ const loadFromDrive = async () => {
                         fs.unlinkSync(`./public/locales/${key}/common.json`)
                     }
 
-                    fs.renameSync(`./${key}.json`, `./locales/${key}/common.json`)
+                    fs.renameSync(`./${key}.json`, `./public/locales/${key}/common.json`)
                 }
 
                 fs.unlinkSync(`./lang.csv`)
