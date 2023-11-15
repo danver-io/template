@@ -4,7 +4,7 @@ import {useTranslation} from 'next-i18next'
 
 const HomePage: React.FC = () => {
     const {t} = useTranslation()
-    return <div>{t('app_title')}</div>
+    return <div>{t('app.title')}</div>
 }
 
 export const getStaticProps = async ({locale}) => ({
