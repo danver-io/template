@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lang": "yarn babel-node --presets @babel/preset-env ./script/language.js"
+  },
+  "dependencies": {
+    "@danver-io/danver-design-system": "1.0.73",
+    "@tanstack/react-query": "^4.26.1",
+    "accept-language": "3.0.18",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@babel/node": "7.19.1",
+    "@svgr/webpack": "6.5.0",
+    "@types/node": "18.11.5",
+    "@types/react": "18.2.8",
+    "@types/react-dom": "18.0.7",
+    "autoprefixer": "10",
+    "axios": "1.1.3",
+    "csv-parser": "3.0.0",
+    "next-translate-plugin": "2.5.3",
+    "postcss": "8",
+    "prettier": "3.0.3",
+    "tailwindcss": "3",
+    "typescript": "5.1.3"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
